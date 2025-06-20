@@ -214,7 +214,7 @@ export default function SignUpForm({ forceShowModal = false, initialMode = "sign
             </span>
           ) : (
             <span>
-              Don't have an account?{" "}
+              Don&apos;t have an account?{" "}
               <button
                 type="button"
                 onClick={() => setMode("signup")}
